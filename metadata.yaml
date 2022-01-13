@@ -1,0 +1,25 @@
+_repo: Old-Ninety-Nines-Cave_67145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gray, Elizabeth H.
+    gutenberg_agent_id: '54061'
+    url: http://www.gutenberg.org/2009/agents/54061
+description: ''
+gutenberg_issued: '2022-01-11'
+identifiers:
+  gutenberg: '67145'
+language: en
+pgterms:marc905: 20190409161042gray
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: United States :C. M. Clark Publishing Co.,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Old Ninety-Nine’s Cave
+url: http://www.gutenberg.org/ebooks/67145
